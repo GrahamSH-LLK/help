@@ -1,5 +1,5 @@
 # errors
-## 501 Error
-This site isn't configured in the modules.json file
-## Other XXX Errors
-This is an error that probally isn't caused by wgytcraft
+## Error Codes:
+Most Errors Codes Are Just HTTP status codes with an extra description.
+### This Site Doesn't exist error:
+This site is not set up for use with wgytcraft.cf
