@@ -1,4 +1,4 @@
-# Build a wgytcraft module
+# build a module
 - make a folder in the modules folder called whatever you want
 - add a file called `index.js`
 - add the following code:
