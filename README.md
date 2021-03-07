@@ -1,2 +1,2 @@
-# docs
+# help
 wgytcraft documentation
